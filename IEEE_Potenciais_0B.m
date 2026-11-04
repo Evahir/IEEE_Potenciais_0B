@@ -44,7 +44,7 @@ fprintf('Passo permissivel: 50kg = %.1f V | 70kg = %.1f V\n', Valor_permissivel_
 %% -----------------------------------------------------------------------
 %% 3) Resistividade equivalente uniforme (Clausula 13.4.1)
 %% -----------------------------------------------------------------------
-rho_eq = 524.125;   % rho_a, dada diretamente pelo autor para este caso
+rho_eq = 524.125;   % rho_a
 fprintf('Resistividade equivalente uniforme usada em Em/Es = %.3f ohm.m\n', rho_eq);
 
 %% -----------------------------------------------------------------------
